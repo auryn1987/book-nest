@@ -1,6 +1,6 @@
 <script lang="ts">
 	import heroImage from '$assets/hero.png';
-	import Button from './Button.svelte';
+	import { Button } from '$components';
 </script>
 
 <section class="default-margin hero">
